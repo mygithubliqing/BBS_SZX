@@ -112,7 +112,7 @@
 		</dependency> 
 	</dependencies>
 	<build>
-		<finalName>fcms</finalName>
+		<finalName>szx_bbs</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.mortbay.jetty</groupId>

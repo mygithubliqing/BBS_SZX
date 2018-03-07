@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="fcms" />
+        <module name="bbs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="fcms" target="1.8" />
+      <module name="bbs" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
