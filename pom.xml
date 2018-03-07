@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.daymooc</groupId>
-	<artifactId>fcms</artifactId>
+	<groupId>com.szx</groupId>
+	<artifactId>bbs</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
-	<name>jcms</name>
+	<name>szx_bbs</name>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>

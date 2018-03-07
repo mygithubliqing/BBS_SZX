@@ -15,7 +15,7 @@ emailPass=szx123!@#
 # pvUpdate 每小时更新一次 project_page_view、share_page_view、feedback_page_view
 cron4j=pvUpdate
 pvUpdate.cron=0 * * * *
-pvUpdate.class=com.daymooc.fcms.common.pageview.PageViewUpdateTask
+pvUpdate.class=com.szx.bbs.common.pageview.PageViewUpdateTask
 pvUpdate.enable=true
 
 
